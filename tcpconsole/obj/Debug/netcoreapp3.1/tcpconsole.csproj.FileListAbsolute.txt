@@ -1,0 +1,13 @@
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\bin\Debug\netcoreapp3.1\tcpconsole.exe
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\bin\Debug\netcoreapp3.1\tcpconsole.deps.json
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\bin\Debug\netcoreapp3.1\tcpconsole.runtimeconfig.json
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\bin\Debug\netcoreapp3.1\tcpconsole.runtimeconfig.dev.json
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\bin\Debug\netcoreapp3.1\tcpconsole.dll
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\bin\Debug\netcoreapp3.1\tcpconsole.pdb
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\obj\Debug\netcoreapp3.1\tcpconsole.csproj.AssemblyReference.cache
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\obj\Debug\netcoreapp3.1\tcpconsole.AssemblyInfoInputs.cache
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\obj\Debug\netcoreapp3.1\tcpconsole.AssemblyInfo.cs
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\obj\Debug\netcoreapp3.1\tcpconsole.csproj.CoreCompileInputs.cache
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\obj\Debug\netcoreapp3.1\tcpconsole.dll
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\obj\Debug\netcoreapp3.1\tcpconsole.pdb
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\tcpconsole\obj\Debug\netcoreapp3.1\tcpconsole.genruntimeconfig.cache

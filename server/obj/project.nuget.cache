@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3EL9TmPC3PYfzQYKv9VGFzSKxXDPz5jOEwDCE2vndvyY6KK0anLC7VggaNU98hmCbqESG4Jui6HhbJIb/D5kRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Seraphus\\Desktop\\tcp\\tcpconsole\\server\\server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seraphus\\.nuget\\packages\\nlog\\4.7.10\\nlog.4.7.10.nupkg.sha512",
+    "C:\\Users\\Seraphus\\.nuget\\packages\\nlog.schema\\4.7.10\\nlog.schema.4.7.10.nupkg.sha512"
+  ],
+  "logs": []
+}

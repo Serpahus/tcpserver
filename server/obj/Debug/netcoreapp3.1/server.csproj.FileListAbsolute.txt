@@ -1,0 +1,17 @@
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\obj\Debug\netcoreapp3.1\server.csproj.AssemblyReference.cache
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\obj\Debug\netcoreapp3.1\server.pdb
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\obj\Debug\netcoreapp3.1\server.csproj.CopyComplete
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Seraphus\Desktop\tcp\tcpconsole\server\bin\Debug\netcoreapp3.1\NLog.xsd
